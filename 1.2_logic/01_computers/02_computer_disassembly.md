@@ -15,4 +15,4 @@ Insert image:
    components into the computer.
 images/system/computer-opened.jpg
 ```
-![title](~/Technology-Projects-BLOCK-1/1.2_logic/01_computers/External.jpg)
+![title](/External.jpg)
